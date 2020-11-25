@@ -1,3 +1,3 @@
 # DEMO FILE
 
-THis is my first time in Githb and getting familiar with it.
+This is my first time in Github and getting familiar with it.
